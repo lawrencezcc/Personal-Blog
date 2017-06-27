@@ -9,9 +9,13 @@
     
 **Features**  
 
+    •the application utilizes LAMP framework
     •javascript in this application uses JQuery library and ES6
     •responsive design
     •all the UI and animations in this application are built by myself (I want to demonstrate the comprehensive competency of website UI design)
+    
+**The Web Server** utilizes Amazon Web Service(EC2)
+    
 
 # Screenshots of The Website
 #### • `Website screen 1` 
