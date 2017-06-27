@@ -1,0 +1,31 @@
+.article #banner{
+  height: 300px;
+}
+
+.article #banner .inner h1{
+  border: none;
+}
+
+.article #banner .inner{
+  top: 60px;
+}
+
+.article .main{
+  background: #fefefe;
+}
+
+.article .content_wrapper{
+  width: 1080px;
+  margin: 0 auto;
+}
+
+.article .article_info{
+  font-size: 14px;
+  color: #888;
+  padding: 15px 0;
+}
+
+.article article{
+  line-height: 2;
+  padding: 10px 0;
+}
