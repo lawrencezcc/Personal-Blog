@@ -4,7 +4,7 @@
     •Personal projects demo
     •Technological blog updating
     •Personal experience and information display
-    •Social media interaction
+    •Social media interaction
     •Contact me by website Email function
     
 **Features**  
